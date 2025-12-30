@@ -13,3 +13,14 @@ int main(){
     return 0;
 }
 
+/* 
+Universal logic for factorial: 
+5! = 5 * 4 * 3 * 2 * 1
+sum
+sum of n-1 nums
+
+sum=sum*(n-1)
+
+*/
+
+
