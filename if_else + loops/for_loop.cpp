@@ -2,11 +2,9 @@
 using namespace std;
 
 int main(){
-    int count = 1;
-    while (count<=5)
+    for (int i = 0; i <= 5; i++)
     {
-        cout << count << endl;
-        count++;
+        cout << i << endl;
     }
     
     return 0;
